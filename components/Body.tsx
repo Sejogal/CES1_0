@@ -19,8 +19,8 @@ const body = () => {
             tb: 544,
             selecionado: true,
             estrofe1: 'Senhor, meu Deus, quando eu maravilhado \nParo a pensar no Teu grandioso ser,\nContemplo o céu, de estrelas pontilhado,\nA declarar ao mundo Teu poder...',
-            estrofe2: 'Quando lampeja e ruge a tempestade\nE faz tremer a terra e o mar,\nA nuvem solta a chuva refrescante\nE o arco-íris vem-me alegrar...',
-            estrofe3: 'Ao percorrer as matas e florestas,\nEu vejo as aves e ouço seu cantar,\nMontes e rios eis também em festa,\nPor tudo isso quero a Deus louvar...',
+            estrofe2: 'Quando lampeja e ruge a tempestade E faz tremer a terra e o mar,\n A nuvem solta a chuva refrescante\n E o arco-íris vem-me alegrar...',
+            estrofe3: ' Ao percorrer as matas e florestas,\n Eu vejo as aves e ouço seu cantar,\n Montes e rios eis também em festa,\n Por tudo isso quero a Deus louvar...',
             estrofe4: 'Quando percebo que na cruz maldita, Por Teu amor, Jesus morreu por mim,\nE me livrou do jugo do pecado\nAli vertendo o sangue carmesim...',
             estrofe5: 'E quando, enfim, for tudo esclarecido,\nO que a minha fé antecipou,\nE ao ouvir celestes harmonias\nEu louvarei melhor Quem me salvou.',
             som: '',
@@ -50,7 +50,7 @@ const body = () => {
             id: 4,
             tb: 717,
             selecionado: true,
-            estrofe1: 'Ao Deus de Abraão louvai,\nDo vasto céu Senhor,\nEterno e poderoso Pai\nE Deus de amor.\nAugusto Deus Jeová,\nQue terra e céu criou!\nMinha alma o nome exaltará\nDo grande Eu Sou.',
+            estrofe1: 'Ao Deus de Abraão louvai, Do vasto céu Senhor, Eterno e poderoso Pai E Deus de amor. Augusto Deus Jeová, Que terra e céu criou! Minha alma o nome exaltará Do grande Eu Sou.',
             estrofe2: 'Ao Deus de Abraão louvai.Eis, por mandado Seu, Minha alma deixa a terra e vai Gozar o céu. O mundo desprezei, Seu lucro e seu louvor. A Deus por meu quinhão tomei E protetor.',
             estrofe3: 'Meu guia Deus será; Seu infinito amor Feliz em tudo me fará Por onde eu for. Tomou-me pela mão, Nas trevas deu-me luz E dá-me a eterna salvação Por meu Jesus.',
             estrofe4: 'Meu Deus por Si jurou, E nele confiei E para o céu, que preparou, Eu subirei. Sua face eu hei de ver, Confiado em Seu amor, E para sempre engrandecer Meu Redentor!',
@@ -3516,6 +3516,356 @@ const body = () => {
             estrofe5: '',
             som: '',
             coro: 'Eu Te seguirei, ó Cristo,\nQue por mim morreste aqui!\nSe do mundo és Tu malquisto,\nNão me importa, eu sigo a Ti.'
+        },
+        {
+            id: 339,
+            tb: 830,
+            selecionado: true,
+            estrofe1: 'Em minha alma hoje brilha o sol/nGlorioso em resplendor,/nMais brilhante que a clara luz/nÉ o brilho de Jesus.',
+            estrofe2: 'Em minha alma hoje há canção,\nDoce música ao Rei,\nE Jesus escuta a minha voz,\nA Ele cantarei.',
+            estrofe3: 'Em minha alma hoje há prazer,\nFé, amor e gratidão\nPelas bênçãos que Jesus me dá,\nConforto e proteção.',
+            estrofe4: '',
+            estrofe5: '',
+            som: '',
+            coro: ' Há um sol que brilha em minha alma,\nE eu gozo alegria e paz\nAo ver a terna face de Jesus.\nEm minha alma brilha o sol.'
+        },
+        {
+            id: 340,
+            tb: 517,
+            selecionado: true,
+            estrofe1: 'Comigo habita, ó Deus! a noite vem,\nAs trevas crescem, eis, Senhor, convém\nQue me socorra a Tua proteção;\nOh! vem fazer comigo habitação!',
+            estrofe2: 'Vem revelar-Te a mim, Jesus, Senhor,\nDivino Mestre, Rei, Consolador!\nMeu guia forte, amparo em tentação;\nVem, vem fazer comigo habitação!',
+            estrofe3: 'Em breve aqui terei meu fim mortal;\nDesaparece o gozo terreal.\nMudança vejo em tudo, e corrupção;\nComigo faze eterna habitação!',
+            estrofe4: '\nNão há perigo andando com Jesus,\nPresente está nas trevas ou na luz.\nMorte e sepulcro não aterrarão\nOnde meu Deus fizer habitação.',
+            estrofe5: '',
+            som: '',
+            coro: ''
+        },
+        {
+            id: 341,
+            tb: 34,
+            selecionado: true,
+            estrofe1: 'Cristo, meu Mestre,\nMeu amigo sem igual,\nTu dás descanso,\nSalvação real.\nQuando sou provado,\nPrestes a desfalecer,\nTu, meu Cristo amado,\nVens-me socorrer.',
+            estrofe2: 'Só Tu me amparas\nQuando perseguido sou,\nEm Ti, ó Cristo,\nSocorrer-me vou,\nPois em Ti eu posso\nResistir à tentação,\nSim, em Ti obtenho\nForça, paz, perdão.',
+            estrofe3: 'Cristo, meu Mestre,\nQue mais gozo posso ter\nQue no Teu reino\nTua glória ver?\nEm Teu seio quero\nMinha fronte reclinar,\nPara ter descanso\nDeste labutar.',
+            estrofe4: '',
+            estrofe5: '',
+            som: '',
+            coro: 'Cristo, vem mais perto,\nDá-me gozo, paz, perdão!\nPerto, sim, mais perto\nDo meu coração!'
+        },
+        {
+            id: 342,
+            tb: 451,
+            selecionado: true,
+            estrofe1: 'Que bondoso amigo é Cristo!\nRevelou-nos Seu amor\nE nos diz que Lhe entreguemos\nOs cuidados, sem temor.\nFalta ao coração dorido\nGozo, paz, consolação?\nÉ porque não insistimos\nCom Jesus em oração.',
+            estrofe2: 'Andas triste e carregado\nDe pesares e de dor?\nA Jesus, refúgio eterno,\nVai, com fé, teu mal expor.\nTeus amigos te desprezam?\nConta-Lhe isso em oração;\nE do Seu amor supremo\nEncherás o coração.',
+            estrofe3: 'Cristo é verdadeiro amigo!\nDisso prova nos mostrou,\nPara nos salvar da morte\nSobre a cruz Ele expirou.\nDerramou precioso sangue,\nPara as manchas nos lavar;\nPaz em vida e no futuro\nJá podemos alcançar!',
+            estrofe4: '',
+            estrofe5: '',
+            som: '',
+            coro: ''
+        },
+        {
+            id: 343,
+            tb: 643,
+            selecionado: true,
+            estrofe1: 'Descansa, ó alma: eis o Senhor ao lado,\nPaciente leva, e sem queixar-te, a cruz.\nDeixa o Senhor tomar de ti cuidado:\nEle não muda, o teu fiel Jesus!\nProssegue, ó alma: o Amigo celestial\nProtegerá teus passos no espinhal.',
+            estrofe2: 'Prossegue, ó alma: o trilho é estreito e escuro,\nMas no passado guiou-te Deus assim!\nConfia agora a Ele o teu futuro,\nQue esse mistério há de aclarar-se enfim.\nConfia, ó alma: a Sua mansa voz\nAinda acalma o vento e o mar feroz!',
+            estrofe3: 'Confia, ó alma: a hora vem chegando,\nIrás com Cristo, o teu Senhor, morar.\nSem dor nem mágoas gozarás, cantando,\nAs alegrias do celeste Lar.\nDescansa, ó alma: agora há pranto e há dor,\nDepois, o gozo, a paz, o céu de amor!',
+            estrofe4: '',
+            estrofe5: '',
+            som: '',
+            coro: ''
+        },
+        {
+            id: 344,
+            tb: 716,
+            selecionado: true,
+            estrofe1: 'Perfeita paz! Bem além do pensamento.\nPerfeita paz! Que deixou meu Salvador.\nPerfeita paz! Que se estende à eternidade.\nPerfeita paz! Perfeita paz!',
+            estrofe2: 'Perfeita paz!   Reina em cada sofrimento.\nPerfeita paz!   Nova em cada amanhecer.\nPerfeita paz!   É o legado do meu Mestre.\nPerfeita paz!   Perfeita paz!',
+            estrofe3: 'Perfeita paz! Mesmo em plena tempestade.\nPerfeita paz! Nem o inferno a vencerá.\nPerfeita paz! Pelos tempos, imutável.\nPerfeita paz! Perfeita paz!',
+            estrofe4: 'Perfeita paz! Ao levar-me, então, a morte.\nPerfeita paz! Minha tumba envolverá.\nPerfeita paz! Ao chamado da trombeta.\nPerfeita paz! Perfeita paz!',
+            estrofe5: '',
+            som: '',
+            coro: ''
+        },
+        {
+            id: 345,
+            tb: 376,
+            selecionado: true,
+            estrofe1: 'Quero o Salvador comigo,\nSem o qual não posso andar,\nQuero tê-lO sempre perto,\nNo Seu braço descansar.',
+            estrofe2: 'Quero o Salvador comigo,\nFraco sou em confiar;\nSua voz me dá o conforto\nQue outra nunca pôde dar.',
+            estrofe3: 'Quero o Salvador comigo\nDia a dia, em meu viver,\nNa tristeza ou na alegria,\nNo conflito ou no prazer.',
+            estrofe4: '',
+            estrofe5: '',
+            som: '',
+            coro: 'Confiado no Senhor,\nConsolado em Seu amor,\nSeguirei o meu caminho\nSem tristeza e sem temor.\n'
+        },
+        {
+            id: 346,
+            tb: 695,
+            selecionado: true,
+            estrofe1: 'Se paz a mais doce me deres gozar,\nSe dor a mais forte sofrer,\nOh! seja o que for, Tu me fazes saber\nQue feliz com Jesus sempre sou!',
+            estrofe2: 'Embora me assalte o cruel Satanás\nE ataque com vis tentações,\nOh! certo estou, apesar de aflições,\nQue feliz eu serei com Jesus!',
+            estrofe3: 'Meu triste pecado, por meu Salvador,\nFoi pago de um modo cabal;\nValeu-me o Senhor, oh! mercê sem igual!\nSou feliz! Graças dou a Jesus!',
+            estrofe4: 'A vinda eu anseio do meu Salvador,\nVirá conduzir-me ao Lar:\nO céu, onde vou para sempre morar\nCom remidos na luz do Senhor!',
+            estrofe5: '',
+            som: '',
+            coro: 'Sou feliz com Jesus,\nSou feliz com Jesus, meu Senhor!'
+        },
+        {
+            id: 347,
+            tb: 217,
+            selecionado: true,
+            estrofe1: 'Eu sei que há perfeita paz\nJunto ao bondoso Deus;\nNão há pecados e obras más\nJunto ao bondoso Deus.',
+            estrofe2: 'Eu sei que há conforto e luz\nJunto ao bondoso Deus;\nEncontro, ali, o meu Jesus,\nJunto ao bondoso Deus.',
+            estrofe3: 'Encontro, ali, libertação,\nJunto ao bondoso Deus;\nE tenho paz e salvação\nJunto ao bondoso Deus.',
+            estrofe4: '',
+            estrofe5: '',
+            som: '',
+            coro: 'Meu Redentor, meu Cristo,\nPão que desceu dos céus,\nSegura-me bem perto\nDo coração de Deus!'
+        },
+        {
+            id: 348,
+            tb: 215,
+            selecionado: true,
+            estrofe1: 'Aos pés de Cristo eu quero estar,\nBenditas horas aí passar,\nA voz divina compreender,      ) bis\nEu quero Cristo comigo ter.    )',
+            estrofe2: 'Aos pés de Cristo eu quero estar,\nBenditas horas aí passar,\nA voz divina compreender,      ) bis\nEu quero Cristo comigo ter.    )',
+            estrofe3: 'Aos pés de Cristo hão de cessar\nAs aflições e qualquer pesar,\nOs meus problemas sei resolver          ) bis\nSe posso Cristo comigo ter.   )',
+            estrofe4: 'Bendito o dia quando me achar\nPerante o trono a adorar,\nVou face a face meu Mestre ver,         ) bis\nPois vou com Cristo no céu viver.       )',
+            estrofe5: '',
+            som: '',
+            coro: ''
+        },
+        {
+            id: 349,
+            tb: 169,
+            selecionado: true,
+            estrofe1: 'Bem cedo encontro o jardim\nDe orvalho ainda coberto,\nE uma voz a mim vem falando assim:\nMeu filho, estou bem perto!',
+            estrofe2: 'Tão doce é a voz do Senhor\nQue os passarinhos se aquietam,\nE em minha alma, então, cheia de emoção,\nA fé e o amor despertam.',
+            estrofe3: 'Sim, nesse jardim ficarei,\nMesmo vindo a noite tão densa;\nBem seguro irei, pela mão do Rei,\nAo céu de luz intensa!',
+            estrofe4: '',
+            estrofe5: '',
+            som: '',
+            coro: 'Com Jesus desejo permanecer\nE gozar real comunhão;\nDela vem a paz e o poder que traz\nPureza ao meu coração.'
+        },
+        {
+            id: 350,
+            tb: 190,
+            selecionado: true,
+            estrofe1: 'Mais junto, ó Deus, a Ti, mais junto a Ti,\nInda que aflições eu tenha aqui,\nAspiro ao gozo ali, mais junto, ó Deus, a Ti,\nMais junto, ó Deus, a Ti, mais junto a Ti!',
+            estrofe2: 'E, quando ao pôr-do-sol, na solidão,\nDormir cansado e só, meu leito o chão,\nVer-me-ei, em sonho, ali, mais junto, ó Deus, a Ti,\nMais junto, ó Deus, a Ti, mais junto a Ti!',
+            estrofe3: 'Sejam meus passos, pois, degraus do céu;\nTodas as provações, proveito meu.\nJá Teu amor senti, mais junto, ó Deus, a Ti,\nMais junto, ó Deus, a Ti, mais junto a Ti!',
+            estrofe4: 'Pedra em Betel porei, vencida a dor,\nMeus dias encherei com Teu louvor.\nViver, já decidi, mais junto, ó Deus, a Ti,\nMais junto, ó Deus, a Ti, mais junto a Ti!',
+            estrofe5: '',
+            som: '',
+            coro: ''
+        },
+        {
+            id: 351,
+            tb: 444,
+            selecionado: true,
+            estrofe1: 'Preciosas são as horas\nNa presença de Jesus,\nComunhão deliciosa\nDa minha alma com a luz!\nOs cuidados deste mundo\nNão me podem abalar,\nPois é Ele o meu abrigo\nQuando o tentador chegar.',
+            estrofe2: 'Ao sentir-me rodeado\nDe cuidados terreais,\nIrritado e abatido\nOu em dúvidas fatais,\nA Jesus eu me dirijo\nNesses tempos de aflição,\nAs palavras que Ele fala\nTrazem-me libertação.',
+            estrofe3: 'Se confesso meus temores,\nToda a minha imperfeição,\nNele escuta com paciência\nNessa triste confissão;\nCom ternura repreende\nMeu pecado e todo o mal,\nEle é sempre o meu amigo,\nO melhor e mais leal.',
+            estrofe4: 'Se quereis saber quão doce\nÉ a divina comunhão,\nPodereis mui bem prová-la\nE tereis compensação;\nProcurai estar sozinhos\nEm conversa com Jesus,\nProvareis na vossa vida\nO poder que vem da cruz.',
+            estrofe5: '',
+            som: '',
+            coro: ''
+        },
+//         {
+//             id: 352,
+//             tb: 629,
+//             selecionado: true,
+//             estrofe1: 'O meu ser se encheu de música, alegria,
+// Com a força do Senhor eu vou subir!
+// Não há nuvens que me escondam Sua face,
+// E por Seu amor eu vou subindo aos céus!',
+//             estrofe2: 'Cada novo dia quero mais amá-lO,
+// Cada novo dia vou servi-lO mais;
+// Cada dia vou subindo mais depressa,
+// Almejando o Lar eterno alcançar.',
+//             estrofe3: 'Como é bom trazer os outros ao caminho,
+// Tantos quantos desejarem podem vir;
+// Pelo amor de Cristo, dado no Calvário,
+// Os pecados ninguém deve mais levar!',
+//             estrofe4: '',
+//             estrofe5: '',
+//             som: '',
+//             coro: '*Vou subindo a escada para a glória,\nTendo à frente a coroa da vitória.\nVou subindo pela luz, vou subindo sem parar,\nVou louvar o meu Senhor quando chegar!\nVou subindo a escada para a glória,\nTendo à frente a coroa da vitória.\nVou subindo pela luz, vou subindo sem parar,\nVou louvar o meu Senhor Jesus!'
+//         },
+//         {
+//             id: 353,
+//             tb: 612,
+//             selecionado: true,
+//             estrofe1: 'Em paz com Deus, que inefável
+// Viver assim, em comunhão,
+// Liberto de condenação,
+// É meu o dom inestimável.',
+//             estrofe2: 'Em paz com Deus, meu ser se acalma,
+// Tranqüilo tenho o coração;
+// Vivo entoando uma canção
+// A Cristo, que salvou minha alma.',
+//             estrofe3: 'Em paz com Deus, por mar bravio
+// Seguro irá o meu batel,
+// Pois sei que Ele é fiel,
+// Na Sua direção confio.
+// ',
+//             estrofe4: '',
+//             estrofe5: '',
+//             som: '',
+//             coro: 'Em Cristo achei descanso e paz,**\nA graça celestial me traz\nA paz com Deus, a paz com Deus.'
+//         },
+//         {
+//             id: 354,
+//             tb: 391,
+//             selecionado: true,
+//             estrofe1: 'Paz com Deus!, busquei ganhá-la
+// Com o mais real fervor,
+// Sem, contudo, obter descanso
+// Nem livrar-me do temor.',
+//             estrofe2: 'Cheio de temor estava
+// Sem a causa descobrir,
+// Ora em trevas, ora em luta,
+// Ignorando o meu porvir.',
+//             estrofe3: 'E por fim, em desespero,
+// Disse: ―Sem vigor estou!‖,
+// E dos céus ouvi resposta:
+// ―Tudo Cristo consumou!',
+//             estrofe4: 'Paz bendita nunca muda,
+// É constante seu valor,
+// Sim, por Deus é garantida
+// A quem busca o Salvador.',
+//             estrofe5: '',
+//             som: '',
+//             coro: 'Oh! que paz Jesus me dá,**
+//         \*\*Paz que outrora não gozei;\*\*
+
+//         \*\*Tudo novo se tornou\*\*
+
+//         \*\*Desde que essa paz achei.\*\*'
+//         },
+//         {
+//             id: 355,
+//             tb: 272,
+//             selecionado: true,
+//             estrofe1: 'Quero estar ao pé da cruz,
+// De onde rica fonte
+// Corre franca, salutar,
+// De Sião no monte.',
+//             estrofe2: 'A tremer ao pé da cruz,
+// Graça eterna achou-me;
+// Matutina Estrela, ali,
+// Raios Seus mandou-me.',
+//             estrofe3: 'Confiante, junto à cruz,
+// Sem temor vigio,
+// Pois à pátria santa irei,
+// Salvo, além do rio.',
+//             estrofe4: '',
+//             estrofe5: '',
+//             som: '',
+//             coro: 'Sim, na cruz, sim, na cruz,**
+//         \*\*Sempre me glorio,\*\*
+
+//         \*\*Para, enfim, ir descansar\*\*
+
+//         \*\*Salvo, além do rio.\*\*'
+//         },
+        {
+            id: 356,
+            tb: 668,
+            selecionado: true,
+            estrofe1: 'Nunca penses que Deus Se olvidou de ti,\nQue te perdoou só para ser gentil.\nTenhas feito bem ou mal, receberás amor,\nPois Deus não Se escondeu do teu olhar.',
+            estrofe4: '',
+            estrofe2: 'Nunca penses que estás sozinho aqui,\nQue não mais conseguirás viver feliz.\nTua vida tomará, também transformará,\nPois Deus não Se encondeu do teu olhar.',
+            estrofe3: 'Nunca penses que não podes mais cumprir\nA vontade do teu amoroso Pai.\nAo teu lado sempre está e quer-te ajudar\nCom Sua rica graça e amor sem par.',
+            estrofe5: '',
+            som: '',
+            coro: 'Seu amor é sempre igual, conhece o coração,\nNão penses que Ele quer-te abandonar;\nAo teu lado sempre está e quer-te ajudar\nCom Sua rica graça e amor sem par.'
+        },
+        {
+            id: 357,
+            tb: 220,
+            selecionado: true,
+            estrofe1: 'Tudo o que eu tenho quero entregar,\nToma a minha vida, o meu caminhar;\nMeus dias, horas, meu louvor,\nA Ti pertencem, meu Senhor!',
+            estrofe2: 'Tudo o que eu tenho, hei de confessar,\nVem do Teu amor e graça singular;\nEm gratidão por Teu favor,\nDevolvo tudo a Ti, Senhor!',
+            estrofe3: 'Tudo o que eu tenho trago com prazer,\nVem, ó fogo santo, brilha em meu viver,\nEnchendo-me de luz e amor,\nE cumpre o Teu querer, Senhor!',
+            estrofe4: '',
+            estrofe5: '',
+            som: '',
+            coro: 'Tudo o que eu tenho,\nTudo o que eu sou,\nMeus talentos, meu amor,\nTudo a Ti eu dou!\nTudo o que eu tenho,\nTudo o que eu sou,\nTudo deixo em Teu altar,\nTudo a Ti eu dou!'
+        },
+        {
+            id: 358,
+            tb: 246,
+            selecionado: true,
+            estrofe1: 'Jesus, Pastor amado,\nReunidos hoje aqui,\nConcede que sejamos\nUm corpo só em Ti.\nContendas e malícias\nQue longe de nós vão,\nNenhum desgosto impeça\nDa Igreja a santa união.',
+            estrofe2: 'Família unida somos,\nFamília de Jesus,\nIluminados todos\nDa mesma santa luz.\nA mesma fé nos prende\nNum só divino amor,\nE com o mesmo gozo\nServimos ao Senhor.',
+            estrofe3: 'Na mesma senda estreita,\nÉ Deus quem nos conduz;\nNão temos esperança\nSenão num só: Jesus,\nQue pela Sua morte\nA todos vida traz;\nDo Seu precioso sangue\nNos vem a mesma paz.',
+            estrofe4: 'Rebanho resgatado\nPor um só Salvador,\nDevemos ser unidos\nPor mais ardente amor,\nHumildes perdoando\nOs erros do irmão\nE todos ajudando\nCom terna compaixão.',
+            estrofe5: 'Se Tua Igreja toda\nAndar em santa união,\nEntão será bendito\nO nome de cristão.\nAquilo que pediste\nEm nós se cumprirá,\nE assim o mundo inteiro\nA Ti conhecerá.',
+            som: '',
+            coro: ''
+        },
+        {
+            id: 359,
+            tb: 165,
+            selecionado: true,
+            estrofe1: 'Bendita e santa união\nQue, no fraterno amor,\nA todos sempre, em comunhão,\nNos prende no Senhor.',
+            estrofe2: 'Aqui tudo é comum:\nTristezas e prazer;\nEm Cristo somos todos um,\nÉ esse o Seu querer.',
+            estrofe3: 'Ao mesmo trono, além,\nVão nossas petições;\nQue desça o amor e a paz também\nAos nossos corações.',
+            estrofe4: '',
+            estrofe5: '',
+            som: '',
+            coro: ''
+        },
+        {
+            id: 360,
+            tb: 170,
+            selecionado: true,
+            estrofe1: 'Que vista amável é\nO intenso e puro amor\nDe irmãos, unidos pela fé,\nLouvando ao Senhor!',
+            estrofe2: 'O mundo observará\nTão santa e doce paz\nE, qual perfume, sentirá\nO gozo que ela traz.',
+            estrofe3: 'Envia-nos, Jesus,\nDo monte de Sião,\nDivina graça que produz\nPerfeita comunhão.',
+            estrofe4: '',
+            estrofe5: '',
+            som: '',
+            coro: ''
+        },
+        {
+            id: 361,
+            tb: 331,
+            selecionado: true,
+            estrofe1: 'Qual o adorno desta vida?\nÉ o amor. (bis)\nAlegria é concedida\nPelo amor. (bis)\nÉ benigno, é paciente,\nNão se torna maldizente (bis)\nEsse amor. (bis)',
+            estrofe2: 'Com suspeitas não se alcança\nVero amor; (bis)\nOnde houver desconfiança,\nAi do amor! (bis)\nDemonstremos lealdade\nUma vez que a falsidade (bis)\nMata o amor. (bis)',
+            estrofe3: 'O cristão não é mesquinho\nDesse amor; (bis)\nPois, então, ao teu vizinho\nMostra amor. (bis)\nO supremo Deus nos ama,\nCristo para o céu nos chama, (bis)\nQuanto amor! (bis)',
+            estrofe4: '',
+            estrofe5: '',
+            som: '',
+            coro: ''
+        },
+        {
+            id: 362,
+            tb: 202,
+            selecionado: true,
+            estrofe1: 'Se da vida as vagas\nProcelosas são,\nSe com desalento\nJulgas tudo vão,\nLembra as muitas bênçãos,\nDize-as duma vez\nE verás surpreso\nQuanto Deus já fez.',
+            estrofe2: 'Tens acaso mágoas?\nTriste é teu lidar?\nÉ a cruz pesada\nQue tens de levar?\nConta as muitas bênçãos,\nLogo exultarás\nE, fortalecido,\nTudo vencerás!',
+            estrofe3: 'Quando vires outros\nCheios de ouro e bens,\nLembra que tesouros\nPrometidos tens.\nNunca os bens da terra\nPoderão comprar\nA mansão celeste\nQue vais habitar.',
+            estrofe4: 'Seja o teu combate\nLongo ou breve aqui,\nNão te desanimes,\nDeus será por ti.\nSeu divino auxílio,\nCorrigindo o mal,\nHá de assegurar-te\nGalardão final.',
+            estrofe5: '',
+            som: '',
+            coro: 'Conta as bênçãos, dize quantas são,\nRecebidas da divina mão\nVem contá-las, todas duma vez,\nE verás surpreso\nQuanto Deus já fez.'
+        },
+        {
+            id: 363,
+            tb: 447,
+            selecionado: true,
+            estrofe1: 'Graças dou por esta vida,\nPelo bem que me legou.\nGraças pelo meu futuro\nE por tudo o que passou.\nPelas bênçãos derramadas,\nPelo amor, pela aflição,\nPelas graças reveladas,\nPelo gozo do perdão.',
+            estrofe2: 'Graças pelo azul celeste\nE por nuvens que há, também,\nPelas rosas do caminho\nE os espinhos que elas têm.\nPela escuridão da noite,\nPela estrela que brilhou,\nPela prece respondida\nE a esperança que falhou.',
+            estrofe3: 'Pela cruz e o sofrimento\nE feliz ressurreição,\nPelo amor que é sem medida,\nPela paz no coração.\nPela lágrima vertida,\nTeu consolo que é sem par,\nPelo dom da eterna vida,\nSempre graças hei de dar.',
+            estrofe4: '',
+            estrofe5: '',
+            som: '',
+            coro: ''
         },
 
 
